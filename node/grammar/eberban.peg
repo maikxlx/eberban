@@ -161,7 +161,7 @@ JA    <- &particle_word                   (j &a hieaou)      &post_word
 JO    <- &particle_word                   (j &o hieaou)      &post_word
 JU    <- &particle_word                   (j &u hieaou)      &post_word
 KI    <- &particle_word                   (k hieaou)         &post_word
-MI    <- &particle_word                   ((m hieaou)         &post_word) / (x hieaou)         &post_word)
+MI    <- &particle_word                   ((m / x) hieaou)   &post_word
 PI    <- &particle_word                   (p &i hieaou)      &post_word
 PE    <- &particle_word                   (p &e hieaou)      &post_word
 PEI   <- &particle_word                   (p e i)            &post_word
