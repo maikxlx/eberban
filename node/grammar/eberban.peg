@@ -228,7 +228,7 @@ sibilant <- c / s / j / z
 sonorant <- n / r / l
 
 consonant <- (voiced / unvoiced / liquid / nasal) 
-nasal <- m / n
+nasal <- m / n / x
 liquid <- l / r
 voiced <- b / d / g / v / z / j
 unvoiced <- p / t / k / f / s / c
